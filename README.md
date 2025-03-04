@@ -1,5 +1,5 @@
-<h1 align="center">🌿🌿🌿 Hi, I'm Leon. M. Saia 👋 🌿🌿🌿</h1>
-<h3 align="center">Full Stack Developer | Developer | Teacher</h3>
+<h1 align="center">🌿🌿🌿 Hi, I'm Leon. M. Saia 🌿🌿🌿</h1>
+<h3 align="center">Full Stack Developer | Manager | Researcher | Teacher</h3>
 
 ---
 
