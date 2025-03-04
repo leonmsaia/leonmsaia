@@ -82,14 +82,14 @@
 💼 **LinkedIn:** [LeonMSaia](https://linkedin.com/in/leonmsaia)  
 🌎 **Portfolio:** [Behance](https://www.behance.net/leonmsaia)  
 
-⭐ **Thanks for visiting my profile!** 🚀
-
-
 ---
 
-### 🎮 **If you like, join me here too!** 🚀
+### 🎮 **If you like, join me here too!**
 
 <p>
   <img src="https://card.exophase.com/2/0/287537.png?1741105562" alt="Gaming Profile" style="width: 55%;">
 </p>
 
+---
+
+⭐ **Thanks for visiting my profile!** 🚀
