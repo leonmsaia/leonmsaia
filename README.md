@@ -89,7 +89,7 @@
 
 ### 🎮 **If you like, join me here too!** 🚀
 
-<p align="center">
+<p>
   <img src="https://card.exophase.com/2/0/287537.png?1741105562" alt="Gaming Profile">
 </p>
 
