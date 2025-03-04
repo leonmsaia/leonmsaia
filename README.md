@@ -80,6 +80,6 @@
 
 📩 **Email:** leonmsaia@gmail.com  
 💼 **LinkedIn:** [LeonMSaia](https://linkedin.com/in/leonmsaia)  
-🌎 **Portfolio:** [Behance]([#](https://www.behance.net/leonmsaia))  
+🌎 **Portfolio:** [Behance](https://www.behance.net/leonmsaia)  
 
 ⭐ **Thanks for visiting my profile!** 🚀
