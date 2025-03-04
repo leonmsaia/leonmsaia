@@ -1,4 +1,4 @@
-<h1 align="center">Hi, I'm Leon. M. Saia 👋</h1>
+<h1 align="center">🌿🌿🌿 Hi, I'm Leon. M. Saia 👋 🌿🌿🌿</h1>
 <h3 align="center">Full Stack Developer | Developer | Teacher</h3>
 
 ---
@@ -10,7 +10,7 @@
 🎓 Freelance Developer and teacher at **UNGS**.  
 📍 San Miguel, Buenos Aires, Argentina.  
 
-🌿🌿🌿
+
 
 ---
 
@@ -60,10 +60,10 @@
 
 ### 📌 Featured Projects  
 
-- **🔹 [Booking & Payment Platform](#)** | Integrated with **Booking, Despegar, Trivago**, synchronized with MercadoPago.  
-- **🔹 [Textile ERP in Laravel](#)** | Stock, production, and sales management for the textile industry.  
-- **🔹 [Custom WordPress CMS](#)** | Optimized content management system for handling large volumes of data.  
-- **🔹 [Horse Racing Machine Learning](#)** | Data analysis and predictive modeling for horse racing statistics.  
+- **🔹 Booking & Payment Platform ** | Integrated with **Booking, Despegar, Trivago**, synchronized with MercadoPago.  
+- **🔹 Textile ERP in Laravel ** | Stock, production, and sales management for the textile industry.  
+- **🔹 Custom WordPress CMS ** | Optimized content management system for handling large volumes of data.  
+- **🔹 Horse Racing Machine Learning ** | Data analysis and predictive modeling for horse racing statistics.  
 
 ---
 
